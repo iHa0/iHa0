@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm iHao</h1>
-<h3 align="center">A Backend and Recommendation System developer from Zhejiang, China.</h3>
+<h3 align="center">A developer from Zhejiang, China.</h3>
 
 - 🌱 I’m currently learning **Spark, Docker, Deep Learing**
 
