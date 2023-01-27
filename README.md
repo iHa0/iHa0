@@ -7,4 +7,4 @@
 
 - 💬 Ask me about **Java, Python, Recommender System**
 
-- 📫 How to reach me **sinhao@live.com*
+- 📫 How to reach me **sinhao@live.com**
